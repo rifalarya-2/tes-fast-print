@@ -18,8 +18,8 @@ Contoh :
     database.default.DBDriver = MySQLi
     database.default.DBPrefix =
     ```
-- Masih di dalam folder repository. Buka terminal dengan klik ```SHIFT+kanan mouse```, kemudian klik ‘open PowerShell window here’ kemudian masukan ```composer install``` lalu enter
-- Setelah step sebelumnya selesai, kemudian masukan ‘php spark serve’ lalu tekan enter
+- Masih di dalam folder repository. Buka terminal dengan klik ```SHIFT+kanan mouse```, kemudian klik ‘open PowerShell window here’ kemudian masukan ```composer install``` lalu enter(pastikan komputer Anda sudah terinstall composer)
+- Setelah step sebelumnya selesai, kemudian masukan ‘php spark serve’ lalu tekan enter(Terminal jangan di close)
 - Buka browser dan masukan di url ```localhost:8080```
 - Klik tombol 'install' untuk membuat table bernama 'produk' dengan isi data dari link api
 
